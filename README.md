@@ -79,7 +79,7 @@ Olá! Me chamo Carlos Audre Santos, tenho 20 anos e sou natural de Sergipe. Esto
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAudre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAudre&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400" 
   />
 
 </p>
