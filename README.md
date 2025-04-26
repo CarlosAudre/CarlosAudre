@@ -2,7 +2,9 @@
 
 **`Desenvolvedor BackEnd`**
 
-Olá! Me chamo Carlos Audre Santos, tenho 20 anos e sou natural de Sergipe. Estou no 5º período de Ciência da Computação na Universidade Tiradentes, focado no desenvolvimento backend com Java e Spring Boot, mas também explorando o frontend. Tenho uma base sólida em HTML e CSS e estou aprofundando meus estudos em JavaScript para criar interfaces mais interativas. Além disso, busco aprender novas tecnologias, como TypeScript e C++, para me tornar um desenvolvedor mais versátil. Compartilho aqui no GitHub meus projetos e estudos — fique à vontade para explorar e acompanhar minha evolução!
+Olá! Me chamo Carlos Audre Santos, tenho 20 anos e sou natural de Sergipe. Atualmente, curso o 5º período de Ciência da Computação na Universidade Tiradentes e, no momento, estou focado em análise de dados com Python. Tenho explorado bibliotecas como Pandas e Streamlit para manipulação e visualização de dados, além da criação de dashboards interativos. Também possuo conhecimentos em HTML, CSS e JavaScript, o que me permite atuar no frontend quando necessário. Tenho familiaridade com SQL, MySQL e PostgreSQL, além de já ter tido experiências anteriores com desenvolvimento backend em Java e Spring Boot. Aqui no GitHub, compartilho meus projetos e aprendizados — sinta-se à vontade para acompanhar minha jornada!
+
+
 ---
 
 ***💻 Tecnologias de desenvolvimento***
@@ -36,12 +38,31 @@ Olá! Me chamo Carlos Audre Santos, tenho 20 anos e sou natural de Sergipe. Esto
 
 <img 
     align="left" 
+    alt="Python" 
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
 
 <img 
     align="left" 
