@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Olá! Me chamo Carlos Audre Santos, tenho 20 anos e sou natural de Sergipe. Atualmente, curso o 5º período de Ciência da Computação na Universidade Tiradentes e estou focado em desenvolvimento full-stack. Tenho experiência com as linguagens Java, JavaScript, Python, HTML e CSS e utilizo frameworks e bibliotecas como Spring Boot, React, Bootstrap, Pandas e Streamlit. Também possuo familiaridade com SQL, MySQL e PostgreSQL, o que me permite atuar tanto no backend quanto no frontend, além de realizar análise de dados quando necessário. Aqui no GitHub, compartilho meus projetos e aprendizados — sinta-se à vontade para acompanhar minha jornada!
+Olá! Me chamo Carlos Audre Santos, tenho 20 anos e sou natural de Sergipe. Atualmente, curso o 6º período de Ciência da Computação na Universidade Tiradentes e estou focado em desenvolvimento full-stack. Tenho experiência com as linguagens Java, JavaScript, Python, HTML e CSS e utilizo frameworks e bibliotecas como Spring Boot, React, Bootstrap, Pandas e Streamlit. Também possuo familiaridade com SQL, MySQL e PostgreSQL, o que me permite atuar tanto no backend quanto no frontend, além de realizar análise de dados quando necessário. Aqui no GitHub, compartilho meus projetos e aprendizados — sinta-se à vontade para acompanhar minha jornada!
 
 
 ---
